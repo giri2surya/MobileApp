@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "602339663048",
+    "firebase_url": "https://androidrestaurantapp-bcebf.firebaseio.com",
+    "project_id": "androidrestaurantapp-bcebf",
+    "storage_bucket": "androidrestaurantapp-bcebf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602339663048:android:6beff2edd321d79b1019fd",
+        "android_client_info": {
+          "package_name": "nl.inholland.androideatinapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602339663048-2jo1vvo5hngehaj7reqprm9cs0o1re6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nl.inholland.androideatinapplication",
+            "certificate_hash": "fb0984c368994a338146b5474350bc89c5253f35"
+          }
+        },
+        {
+          "client_id": "602339663048-d85l9g1cpsb3b51f2ri5map65oae3bdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa19U0ZtaJEpSDEM_FrAn-oyx83KDNILk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602339663048-d85l9g1cpsb3b51f2ri5map65oae3bdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
